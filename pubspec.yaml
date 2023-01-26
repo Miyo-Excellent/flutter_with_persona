@@ -1,6 +1,9 @@
 name: flutter_with_persona
+
 description: Flutter With Persona is a Flutter plugin that allows you to easily integrate Persona authentication into your Flutter app. With this plugin, you can log in to Persona and retrieve information about the authenticated user, all without leaving your app.
+
 version: 0.0.1
+
 homepage: https://github.com/Miyo-Excellent/flutter_with_persona
 
 environment:
@@ -10,12 +13,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   plugin_platform_interface: ^2.1.3
 
 dev_dependencies:
-  // A test package.
   flutter_test:
     sdk: flutter
+
   flutter_lints: ^2.0.1
 
 flutter:
@@ -24,6 +28,7 @@ flutter:
       android:
         package: dev.dartling.flutter_with_persona
         pluginClass: FlutterWithPersonaPlugin
+
       ios:
         pluginClass: FlutterWithPersonaPlugin
 
