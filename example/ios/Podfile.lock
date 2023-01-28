@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_with_persona (0.0.1):
+    - Flutter
+  - PersonaInquirySDK2 (2.5.11)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_with_persona (from `.symlinks/plugins/flutter_with_persona/ios`)
+  - PersonaInquirySDK2
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PersonaInquirySDK2
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_with_persona:
+    :path: ".symlinks/plugins/flutter_with_persona/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_with_persona: 013b10153d7eee2fb20a9b1e6415aece360573b8
+  PersonaInquirySDK2: f9daa62b1f394bf78e73d6a8db9ec670890926cb
+
+PODFILE CHECKSUM: c07e06600508c42f0236dfd61d5737642762adce
+
+COCOAPODS: 1.11.3
